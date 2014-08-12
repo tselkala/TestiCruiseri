@@ -11,7 +11,7 @@
 			<groupId>com.sun</groupId>
 			<artifactId>tools</artifactId>
 			<scope>system</scope>
-			<systemPath>${JENKINS_HOME}/workspace/${ITEM_FULLNAME}/tools.jar</systemPath>
+			<systemPath>${JENKINS_HOME}/workspace/Maven Selenium ajo/tools.jar</systemPath>
 		</dependency>
 		<dependency>
 			<groupId>junit</groupId>
