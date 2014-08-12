@@ -8,12 +8,6 @@
 		<version>1.0.0-SNAPSHOT</version>
 	<dependencies>
 		<dependency>
-			<groupId>com.sun</groupId>
-			<artifactId>tools</artifactId>
-			<scope>system</scope>
-			<systemPath>http://192.168.11.5:8080/job/Maven%20Selenium%20ajo/ws/tools.jar</systemPath>
-		</dependency>
-		<dependency>
 			<groupId>junit</groupId>
 			<artifactId>junit</artifactId>
 			<version>4.11</version>
