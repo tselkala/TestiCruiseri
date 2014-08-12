@@ -24,6 +24,7 @@ public class Testi {
 
   @Test
   public void testI() throws Exception {
+	echo("testi");
     driver.get(baseUrl + "/");
 	if(isElementPresent(By.xpath("(//button[@type='submit'])[2]")) == true)
 	{
